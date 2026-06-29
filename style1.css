@@ -1,7 +1,8 @@
 *{
-    margin:0px;
-    font-family:arial;
-    border:border-box;
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
 }
 .navbar{
     height: 60px;
@@ -24,7 +25,7 @@
 
 }
 .BORDER{
-    border:1.5px solid transparent:
+    border:1.5px solid transparent;
 }
 .BORDER:hover{
     border:1.5px solid WHITE;
